@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/getCustomerName/{id}": {
+      "name": "/getCustomerName/{id}",
+      "lambdaFunction": "amplifybaackendLambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
